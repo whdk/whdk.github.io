@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Room on Vadik Sirekanyan</title>
+    <link>https://sirekanyan.org/tags/room/</link>
+    <description>Recent content in Room on Vadik Sirekanyan</description>
+    <image>
+      <title>Vadik Sirekanyan</title>
+      <url>https://sirekanyan.org/me.jpg</url>
+      <link>https://sirekanyan.org/me.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sirekanyan.org/tags/room/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Warmongr</title>
+      <link>https://sirekanyan.org/projects/warmongr/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/projects/warmongr/</guid>
+      <description>Searchable and fully offline list of bribetakers and warmongers</description>
+    </item>
+    
+  </channel>
+</rss>

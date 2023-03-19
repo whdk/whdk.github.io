@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RxJava on Vadik Sirekanyan</title>
+    <link>https://sirekanyan.org/tags/rxjava/</link>
+    <description>Recent content in RxJava on Vadik Sirekanyan</description>
+    <image>
+      <title>Vadik Sirekanyan</title>
+      <url>https://sirekanyan.org/me.jpg</url>
+      <link>https://sirekanyan.org/me.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://sirekanyan.org/tags/rxjava/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knigopis</title>
+      <link>https://sirekanyan.org/projects/knigopis/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/projects/knigopis/</guid>
+      <description>Keep list of books you&amp;#39;ve read. Have you ever read Balzac?</description>
+    </item>
+    
+  </channel>
+</rss>

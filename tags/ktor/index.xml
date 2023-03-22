@@ -21,5 +21,14 @@
       <description>Simple but awesome stopwatch timer app with cool nasa wallpapers</description>
     </item>
     
+    <item>
+      <title>Anders Robot</title>
+      <link>https://sirekanyan.org/projects/andersrobot/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/projects/andersrobot/</guid>
+      <description>Telegram bot for checking the temperature outside</description>
+    </item>
+    
   </channel>
 </rss>

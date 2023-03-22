@@ -5,12 +5,14 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>RxJava | Vadik Sirekanyan</title>
-<meta name="keywords" content="">
-<meta name="description" content="Android Developer">
+<title>Anders Robot | Vadik Sirekanyan</title>
+<meta name="keywords" content="Telegram, Kotlin, Ktor, Serialization, PostgreSQL, Exposed, LetsPlot">
+<meta name="description" content="Telegram bot for checking the temperature outside">
 <meta name="author" content="">
-<link rel="canonical" href="https://sirekanyan.org/tags/rxjava/">
+<link rel="canonical" href="https://sirekanyan.org/projects/andersrobot/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.df69be42f9f3e2f3da68a9b162c6d79f118e5547d2e125417119d6cfa2c13e35.css" integrity="sha256-32m&#43;Qvnz4vPaaKmxYsbXnxGOVUfS4SVBcRnWz6LBPjU=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://sirekanyan.org/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://sirekanyan.org/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://sirekanyan.org/favicon-32x32.png">
@@ -18,7 +20,6 @@
 <link rel="mask-icon" href="https://sirekanyan.org/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://sirekanyan.org/tags/rxjava/index.xml">
 <noscript>
     <style>
         #theme-toggle,
@@ -55,20 +56,72 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="RxJava" />
-<meta property="og:description" content="Android Developer" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://sirekanyan.org/tags/rxjava/" /><meta property="og:image" content="https://sirekanyan.org/me.jpg"/><meta property="og:site_name" content="Vadik Sirekanyan" />
+</noscript><meta property="og:title" content="Anders Robot" />
+<meta property="og:description" content="Telegram bot for checking the temperature outside" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://sirekanyan.org/projects/andersrobot/" />
+<meta property="og:image" content="https://sirekanyan.org/covers/andersrobot.jpg" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2020-10-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-10-10T00:00:00+00:00" /><meta property="og:site_name" content="Vadik Sirekanyan" />
 
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://sirekanyan.org/me.jpg"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://sirekanyan.org/covers/andersrobot.jpg" />
+<meta name="twitter:title" content="Anders Robot"/>
+<meta name="twitter:description" content="Telegram bot for checking the temperature outside"/>
 
-<meta name="twitter:title" content="RxJava"/>
-<meta name="twitter:description" content="Android Developer"/>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Projects",
+      "item": "https://sirekanyan.org/projects/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Anders Robot",
+      "item": "https://sirekanyan.org/projects/andersrobot/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Anders Robot",
+  "name": "Anders Robot",
+  "description": "Telegram bot for checking the temperature outside",
+  "keywords": [
+    "Telegram", "Kotlin", "Ktor", "Serialization", "PostgreSQL", "Exposed", "LetsPlot"
+  ],
+  "articleBody": " Open in Telegram ",
+  "wordCount" : "3",
+  "inLanguage": "en",
+  "image":"https://sirekanyan.org/covers/andersrobot.jpg","datePublished": "2020-10-10T00:00:00Z",
+  "dateModified": "2020-10-10T00:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://sirekanyan.org/projects/andersrobot/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Vadik Sirekanyan",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sirekanyan.org/favicon.ico"
+    }
+  }
+}
+</script>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
@@ -97,24 +150,43 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<header class="page-header">
-  <h1>
-    RxJava
-  </h1>
-</header>
+<main class="main">
 
-<article class="post-entry tag-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="https://sirekanyan.org/covers/knigopis.jpg" alt="">
-</figure>
-  <header class="entry-header">
-    <h2>Knigopis
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Keep list of books you’ve read. Have you ever read Balzac?</p>
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Anders Robot
+    </h1>
+    <div class="post-description">
+      Telegram bot for checking the temperature outside
+    </div>
+  </header> 
+  <div class="post-content">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/screenshots/andersrobot-dark.png">
+    <img src="/screenshots/andersrobot.png">
+</picture>
+
+<a href='https://t.me/AndersRobot' id="tg_share_button">
+    <i id="tg_share_icon"></i>
+    Open in Telegram
+</a>
+
+
   </div>
-  <a class="entry-link" aria-label="post link to Knigopis" href="https://sirekanyan.org/projects/knigopis/"></a>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://sirekanyan.org/tags/telegram/">Telegram</a></li>
+      <li><a href="https://sirekanyan.org/tags/kotlin/">Kotlin</a></li>
+      <li><a href="https://sirekanyan.org/tags/ktor/">Ktor</a></li>
+      <li><a href="https://sirekanyan.org/tags/serialization/">Serialization</a></li>
+      <li><a href="https://sirekanyan.org/tags/postgresql/">PostgreSQL</a></li>
+      <li><a href="https://sirekanyan.org/tags/exposed/">Exposed</a></li>
+      <li><a href="https://sirekanyan.org/tags/letsplot/">LetsPlot</a></li>
+    </ul>
+  </footer>
 </article>
     </main>
     

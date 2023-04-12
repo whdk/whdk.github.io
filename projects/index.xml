@@ -18,7 +18,7 @@
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sirekanyan.org/projects/spacetime/</guid>
-      <description>Simple but awesome stopwatch timer app with cool nasa wallpapers</description>
+      <description>A simple but awesome stopwatch timer app with cool nasa wallpapers</description>
     </item>
     
     <item>
@@ -27,7 +27,16 @@
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sirekanyan.org/projects/warmongr/</guid>
-      <description>Searchable and fully offline list of bribetakers and warmongers</description>
+      <description>A searchable and fully offline list of bribetakers and warmongers</description>
+    </item>
+    
+    <item>
+      <title>Latest Version Checker</title>
+      <link>https://sirekanyan.org/projects/version-checker/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/projects/version-checker/</guid>
+      <description>A Gradle plugin for checking the latest versions of dependencies</description>
     </item>
     
     <item>
@@ -36,7 +45,7 @@
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sirekanyan.org/projects/andersrobot/</guid>
-      <description>Telegram bot for checking the temperature outside</description>
+      <description>A Telegram bot for checking the temperature outside</description>
     </item>
     
     <item>

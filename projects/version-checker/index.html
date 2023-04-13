@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Latest Version Checker | Vadik Sirekanyan</title>
-<meta name="keywords" content="">
+<meta name="keywords" content="Gradle, Kotlin, Coroutines, Ktor, Jackson, Gradle Kotlin DSL">
 <meta name="description" content="A Gradle plugin for checking the latest versions of dependencies">
 <meta name="author" content="">
 <link rel="canonical" href="https://sirekanyan.org/projects/version-checker/">
@@ -98,7 +98,7 @@
   "name": "Latest Version Checker",
   "description": "A Gradle plugin for checking the latest versions of dependencies",
   "keywords": [
-    
+    "Gradle", "Kotlin", "Coroutines", "Ktor", "Jackson", "Gradle Kotlin DSL"
   ],
   "articleBody": "Setup Using the plugins DSL:\nplugins { id \"org.sirekanyan.version-checker\" version \"1.0.0\" } Using legacy plugin application:\nbuildscript { repositories { maven { url \"https://plugins.gradle.org/m2/\" } } dependencies { classpath \"org.sirekanyan:version-checker:1.0.0\" } } apply plugin: \"org.sirekanyan.version-checker\" Run ./gradlew versionChecker Options If you don’t want some dependency to be updated to the specific version, consider using lessThan inside a versionCheckerOptions block.\nFor example:\nversionCheckerOptions { \"com.squareup.okhttp3:logging-interceptor\" lessThan \"4.0\" } Usages This plugin is actively used during development of Spacetime, Warmongr, Anders Robot, and Knigopis\nLinks Source Code Gradle Plugin Portal ",
   "wordCount" : "88",
@@ -203,6 +203,12 @@ a <code>versionCheckerOptions</code> block.</p>
 
   <footer class="post-footer">
     <ul class="post-tags">
+      <li><a href="https://sirekanyan.org/tags/gradle/">Gradle</a></li>
+      <li><a href="https://sirekanyan.org/tags/kotlin/">Kotlin</a></li>
+      <li><a href="https://sirekanyan.org/tags/coroutines/">Coroutines</a></li>
+      <li><a href="https://sirekanyan.org/tags/ktor/">Ktor</a></li>
+      <li><a href="https://sirekanyan.org/tags/jackson/">Jackson</a></li>
+      <li><a href="https://sirekanyan.org/tags/gradle-kotlin-dsl/">Gradle Kotlin DSL</a></li>
     </ul>
   </footer>
 </article>

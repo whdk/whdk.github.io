@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Latest Version Checker</title>
+      <link>https://sirekanyan.org/projects/version-checker/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/projects/version-checker/</guid>
+      <description>A Gradle plugin for checking the latest versions of dependencies</description>
+    </item>
+    
+    <item>
       <title>Anders Robot</title>
       <link>https://sirekanyan.org/projects/andersrobot/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>

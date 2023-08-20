@@ -11,13 +11,76 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sirekanyan.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sirekanyan.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android</title>
       <link>https://sirekanyan.org/tags/android/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://sirekanyan.org/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compose</title>
+      <link>https://sirekanyan.org/tags/compose/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/tags/compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coroutines</title>
+      <link>https://sirekanyan.org/tags/coroutines/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/tags/coroutines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>https://sirekanyan.org/tags/kotlin/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ktor</title>
+      <link>https://sirekanyan.org/tags/ktor/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/tags/ktor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material3</title>
+      <link>https://sirekanyan.org/tags/material3/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/tags/material3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serialization</title>
+      <link>https://sirekanyan.org/tags/serialization/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/tags/serialization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLDelight</title>
+      <link>https://sirekanyan.org/tags/sqldelight/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/tags/sqldelight/</guid>
       <description></description>
     </item>
     
@@ -27,51 +90,6 @@
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sirekanyan.org/tags/coil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compose</title>
-      <link>https://sirekanyan.org/tags/compose/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sirekanyan.org/tags/compose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coroutines</title>
-      <link>https://sirekanyan.org/tags/coroutines/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sirekanyan.org/tags/coroutines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kotlin</title>
-      <link>https://sirekanyan.org/tags/kotlin/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sirekanyan.org/tags/kotlin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ktor</title>
-      <link>https://sirekanyan.org/tags/ktor/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sirekanyan.org/tags/ktor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Serialization</title>
-      <link>https://sirekanyan.org/tags/serialization/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sirekanyan.org/tags/serialization/</guid>
       <description></description>
     </item>
     

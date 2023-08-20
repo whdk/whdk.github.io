@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sirekanyan.org/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sirekanyan.org/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outline Manager for Android</title>
+      <link>https://sirekanyan.org/projects/outline/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirekanyan.org/projects/outline/</guid>
+      <description>An application for managing Outline VPN servers</description>
+    </item>
+    
     <item>
       <title>Spacetime</title>
       <link>https://sirekanyan.org/projects/spacetime/</link>

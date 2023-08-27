@@ -14,6 +14,9 @@
     <loc>https://sirekanyan.org/tags/kotlin/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sirekanyan.org/tags/kotlinx-serialization/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sirekanyan.org/tags/ktor/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,9 +27,6 @@
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sirekanyan.org/projects/</loc>
-    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sirekanyan.org/tags/serialization/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sirekanyan.org/tags/sqldelight/</loc>

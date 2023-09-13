@@ -41,7 +41,31 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "org.sirekanyan.fun",
+      "package_name": "org.sirekanyan.function",
+      "sha256_cert_fingerprints": [
+        "F4:1A:4F:13:25:2F:51:92:CA:70:51:D3:3A:DB:D0:6E:96:91:36:BA:42:81:03:9B:83:D8:F6:42:D1:63:CF:F7"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.sirekanyan.cookbook",
+      "sha256_cert_fingerprints": [
+        "F4:1A:4F:13:25:2F:51:92:CA:70:51:D3:3A:DB:D0:6E:96:91:36:BA:42:81:03:9B:83:D8:F6:42:D1:63:CF:F7"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.sirekanyan.outline",
       "sha256_cert_fingerprints": [
         "F4:1A:4F:13:25:2F:51:92:CA:70:51:D3:3A:DB:D0:6E:96:91:36:BA:42:81:03:9B:83:D8:F6:42:D1:63:CF:F7"
       ]

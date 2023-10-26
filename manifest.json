@@ -1,6 +1,7 @@
 {
   "name": "Sirekanyan",
   "short_name": "Sirekanyan",
+  "background_color": "#00000000",
   "icons": [
     {
       "src": "/icon-192.png",

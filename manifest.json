@@ -1,0 +1,28 @@
+{
+  "name": "Sirekanyan",
+  "short_name": "Sirekanyan",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "About",
+      "short_name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Projects",
+      "short_name": "Projects",
+      "url": "/projects"
+    }
+  ]
+}
